@@ -2,7 +2,7 @@
 
 <h4 align="center">Full-Time Housewife working as DevOps on the side</h4>
 
- I’m interested in **Front-End Design and Experimental Ideas**!
+- 😻 I’m interested in **Front-End Design and Experimental Ideas**!
 
 - 🌱 I’m currently learning **Spring Boot and Angular**!
 
